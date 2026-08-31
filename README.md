@@ -1,5 +1,5 @@
 # EEE_AIML_TASK
-Name: Anirudh Sanjaikumar Jutu
+Name: Anirudh Jutu
 
 Task Description: Analyzing python lists, utilising its functions, and handling data using libraries such as numpy, pandas and matplotlib.
 
